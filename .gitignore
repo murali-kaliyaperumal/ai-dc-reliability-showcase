@@ -1,0 +1,7 @@
+.env
+.DS_Store
+.vscode/
+GIT-SETUP.md
+CLAUDE.md
+CLAUDE.local.md
+.claude/
